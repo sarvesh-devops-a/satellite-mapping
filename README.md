@@ -16,9 +16,6 @@ Interactive web map with satellite/terrain views, location search, and coordinat
 - OpenStreetMap API
 - Tailwind CSS
 
-## Live Demo
-🔗 [https://your-site.netlify.app](https://your-site.netlify.app)
-
 ## Quick Start
 ```bash
 git clone https://github.com/your-username/repo.git
